@@ -38,3 +38,9 @@
 **Sit-ups**: 4x25   
 **Walk**: 6.23 km
 **Steps**: 7844
+
+## 2025-03-31
+**Push-ups**: 4x12
+**Sit-ups**: 2x25   
+**Walk**: 1.77 km
+**Steps**: 2345
